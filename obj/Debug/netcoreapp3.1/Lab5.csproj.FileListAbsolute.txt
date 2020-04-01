@@ -1,0 +1,11 @@
+S:\Lessons\6\Prog\Lab5\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.exe
+S:\Lessons\6\Prog\Lab5\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.deps.json
+S:\Lessons\6\Prog\Lab5\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.runtimeconfig.json
+S:\Lessons\6\Prog\Lab5\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.runtimeconfig.dev.json
+S:\Lessons\6\Prog\Lab5\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.dll
+S:\Lessons\6\Prog\Lab5\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.pdb
+S:\Lessons\6\Prog\Lab5\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.csprojAssemblyReference.cache
+S:\Lessons\6\Prog\Lab5\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.AssemblyInfoInputs.cache
+S:\Lessons\6\Prog\Lab5\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.AssemblyInfo.cs
+S:\Lessons\6\Prog\Lab5\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.dll
+S:\Lessons\6\Prog\Lab5\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.pdb
